@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c9aafff75bb200f4e9a7285fb8e886e4
+timeCreated: 1512551952
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FTT-RodinNTLG EB
+  fontNames:
+  - FTT-RodinNTLG EB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

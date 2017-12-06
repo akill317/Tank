@@ -1,0 +1,837 @@
+fileFormatVersion: 2
+guid: 43df4e749c330ec419c5dc5f92f089af
+timeCreated: 1512552105
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: first_ground
+    100004: Flat_ground
+    100006: Ground
+    100008: ground
+    100010: Ground1
+    100012: Ground2
+    100014: Ground3
+    100016: Ground4
+    100018: Ground5
+    100020: Ground6
+    100022: Ground7
+    100024: Ground9
+    100026: mountains
+    100028: mountains 1
+    100030: mountains1
+    100032: mountains11
+    100034: mountains15
+    100036: mountains17
+    100038: mountains2
+    100040: mountains3
+    100042: mountains4
+    100044: mountains5
+    100046: mountains7
+    100048: mountains9
+    100050: oakAutumn1Main
+    100052: oakAutumn1Main 1
+    100054: oakAutumn1Main 2
+    100056: oakAutumn1Main 3
+    100058: oakAutumn1Main1
+    100060: oakAutumn1Main1 1
+    100062: oakAutumn1Main1 2
+    100064: oakAutumn1MeshGroup
+    100066: oakAutumn1MeshGroup 1
+    100068: oakAutumn1MeshGroup 2
+    100070: oakAutumn1MeshGroup 3
+    100072: oakWhite1Leaf
+    100074: oakWhite1Leaf 1
+    100076: oakWhite1Leaf 2
+    100078: oakWhite1Leaf 3
+    100080: oakWhite1Leaf 4
+    100082: oakWhite1Leaf 5
+    100084: oakWhite1Leaf 6
+    100086: oakWhite1Main
+    100088: oakWhite1Main 1
+    100090: oakWhite1Main 1_MeshPart0
+    100092: oakWhite1Main 1_MeshPart1
+    100094: oakWhite1Main 2
+    100096: oakWhite1Main 2_MeshPart0
+    100098: oakWhite1Main 2_MeshPart1
+    100100: oakWhite1Main 3
+    100102: oakWhite1Main 3_MeshPart0
+    100104: oakWhite1Main 3_MeshPart1
+    100106: oakWhite1Main 4
+    100108: oakWhite1Main 4_MeshPart0
+    100110: oakWhite1Main 4_MeshPart1
+    100112: oakWhite1Main 5
+    100114: oakWhite1Main 5_MeshPart0
+    100116: oakWhite1Main 5_MeshPart1
+    100118: oakWhite1Main 6
+    100120: oakWhite1Main 6_MeshPart0
+    100122: oakWhite1Main 6_MeshPart1
+    100124: oakWhite1Main_MeshPart0
+    100126: oakWhite1Main_MeshPart1
+    100128: oakWhite1MeshGroup
+    100130: oakWhite1MeshGroup 1
+    100132: oakWhite1MeshGroup 2
+    100134: oakWhite1MeshGroup1
+    100136: oakWhite1MeshGroup1 1
+    100138: oakWhite1MeshGroup1 2
+    100140: oakWhite1MeshGroup1 3
+    100142: Plane01
+    100144: Plane010
+    100146: Plane02
+    100148: Plane03
+    100150: Plane04
+    100152: Plane05
+    100154: Plane06
+    100156: Plane08
+    100158: Plane09
+    100160: Rock
+    100162: Rock 1
+    100164: Rock 2
+    100166: rocks
+    100168: rocks1
+    100170: rocks1 1
+    100172: rocks1 2
+    100174: rocks1 3
+    100176: rocks10
+    100178: rocks11
+    100180: rocks11 1
+    100182: rocks11 2
+    100184: rocks12
+    100186: rocks12 1
+    100188: rocks12 2
+    100190: rocks12 3
+    100192: rocks13
+    100194: rocks13 1
+    100196: rocks13 2
+    100198: rocks13 3
+    100200: rocks14
+    100202: rocks14 1
+    100204: rocks14 2
+    100206: rocks14 3
+    100208: rocks15
+    100210: rocks16
+    100212: rocks17
+    100214: rocks2
+    100216: rocks2 1
+    100218: rocks2 2
+    100220: rocks3
+    100222: rocks3 1
+    100224: rocks3 2
+    100226: rocks4
+    100228: rocks5
+    100230: rocks5 1
+    100232: rocks5 2
+    100234: rocks6
+    100236: rocks6 1
+    100238: rocks6 2
+    100240: rocks6 3
+    100242: rocks7
+    100244: rocks7 1
+    100246: rocks7 2
+    100248: rocks8
+    100250: rocks8 1
+    100252: rocks8 2
+    100254: rocks8 3
+    100256: rocks9
+    100258: rocks9 1
+    100260: rocks9 2
+    100262: rocks9 3
+    100264: rocks_and_tree
+    100266: rocks_and_tree 1
+    100268: rocks_and_tree 2
+    100270: rocks_and_tree 3
+    100272: ruins10
+    100274: ruins11
+    100276: ruins12
+    100278: ruins13
+    100280: ruins14
+    100282: ruins15
+    100284: ruins16
+    100286: ruins17
+    100288: ruins18
+    100290: ruins8
+    100292: ruins9
+    100294: ruins_and_trees
+    100296: ruins_and_trees1
+    100298: ruins_and_trees2
+    100300: ruins_and_trees3
+    100302: second_ground
+    100304: sky1
+    100306: Tree
+    100308: Tree 1
+    100310: Tree 2
+    100312: Tree 3
+    100314: Tree1
+    100316: Tree1 1
+    100318: Tree1 2
+    400000: //RootNode
+    400002: first_ground
+    400004: Flat_ground
+    400006: Ground
+    400008: ground
+    400010: Ground1
+    400012: Ground2
+    400014: Ground3
+    400016: Ground4
+    400018: Ground5
+    400020: Ground6
+    400022: Ground7
+    400024: Ground9
+    400026: mountains
+    400028: mountains 1
+    400030: mountains1
+    400032: mountains11
+    400034: mountains15
+    400036: mountains17
+    400038: mountains2
+    400040: mountains3
+    400042: mountains4
+    400044: mountains5
+    400046: mountains7
+    400048: mountains9
+    400050: oakAutumn1Main
+    400052: oakAutumn1Main 1
+    400054: oakAutumn1Main 2
+    400056: oakAutumn1Main 3
+    400058: oakAutumn1Main1
+    400060: oakAutumn1Main1 1
+    400062: oakAutumn1Main1 2
+    400064: oakAutumn1MeshGroup
+    400066: oakAutumn1MeshGroup 1
+    400068: oakAutumn1MeshGroup 2
+    400070: oakAutumn1MeshGroup 3
+    400072: oakWhite1Leaf
+    400074: oakWhite1Leaf 1
+    400076: oakWhite1Leaf 2
+    400078: oakWhite1Leaf 3
+    400080: oakWhite1Leaf 4
+    400082: oakWhite1Leaf 5
+    400084: oakWhite1Leaf 6
+    400086: oakWhite1Main
+    400088: oakWhite1Main 1
+    400090: oakWhite1Main 1_MeshPart0
+    400092: oakWhite1Main 1_MeshPart1
+    400094: oakWhite1Main 2
+    400096: oakWhite1Main 2_MeshPart0
+    400098: oakWhite1Main 2_MeshPart1
+    400100: oakWhite1Main 3
+    400102: oakWhite1Main 3_MeshPart0
+    400104: oakWhite1Main 3_MeshPart1
+    400106: oakWhite1Main 4
+    400108: oakWhite1Main 4_MeshPart0
+    400110: oakWhite1Main 4_MeshPart1
+    400112: oakWhite1Main 5
+    400114: oakWhite1Main 5_MeshPart0
+    400116: oakWhite1Main 5_MeshPart1
+    400118: oakWhite1Main 6
+    400120: oakWhite1Main 6_MeshPart0
+    400122: oakWhite1Main 6_MeshPart1
+    400124: oakWhite1Main_MeshPart0
+    400126: oakWhite1Main_MeshPart1
+    400128: oakWhite1MeshGroup
+    400130: oakWhite1MeshGroup 1
+    400132: oakWhite1MeshGroup 2
+    400134: oakWhite1MeshGroup1
+    400136: oakWhite1MeshGroup1 1
+    400138: oakWhite1MeshGroup1 2
+    400140: oakWhite1MeshGroup1 3
+    400142: Plane01
+    400144: Plane010
+    400146: Plane02
+    400148: Plane03
+    400150: Plane04
+    400152: Plane05
+    400154: Plane06
+    400156: Plane08
+    400158: Plane09
+    400160: Rock
+    400162: Rock 1
+    400164: Rock 2
+    400166: rocks
+    400168: rocks1
+    400170: rocks1 1
+    400172: rocks1 2
+    400174: rocks1 3
+    400176: rocks10
+    400178: rocks11
+    400180: rocks11 1
+    400182: rocks11 2
+    400184: rocks12
+    400186: rocks12 1
+    400188: rocks12 2
+    400190: rocks12 3
+    400192: rocks13
+    400194: rocks13 1
+    400196: rocks13 2
+    400198: rocks13 3
+    400200: rocks14
+    400202: rocks14 1
+    400204: rocks14 2
+    400206: rocks14 3
+    400208: rocks15
+    400210: rocks16
+    400212: rocks17
+    400214: rocks2
+    400216: rocks2 1
+    400218: rocks2 2
+    400220: rocks3
+    400222: rocks3 1
+    400224: rocks3 2
+    400226: rocks4
+    400228: rocks5
+    400230: rocks5 1
+    400232: rocks5 2
+    400234: rocks6
+    400236: rocks6 1
+    400238: rocks6 2
+    400240: rocks6 3
+    400242: rocks7
+    400244: rocks7 1
+    400246: rocks7 2
+    400248: rocks8
+    400250: rocks8 1
+    400252: rocks8 2
+    400254: rocks8 3
+    400256: rocks9
+    400258: rocks9 1
+    400260: rocks9 2
+    400262: rocks9 3
+    400264: rocks_and_tree
+    400266: rocks_and_tree 1
+    400268: rocks_and_tree 2
+    400270: rocks_and_tree 3
+    400272: ruins10
+    400274: ruins11
+    400276: ruins12
+    400278: ruins13
+    400280: ruins14
+    400282: ruins15
+    400284: ruins16
+    400286: ruins17
+    400288: ruins18
+    400290: ruins8
+    400292: ruins9
+    400294: ruins_and_trees
+    400296: ruins_and_trees1
+    400298: ruins_and_trees2
+    400300: ruins_and_trees3
+    400302: second_ground
+    400304: sky1
+    400306: Tree
+    400308: Tree 1
+    400310: Tree 2
+    400312: Tree 3
+    400314: Tree1
+    400316: Tree1 1
+    400318: Tree1 2
+    2300000: Flat_ground
+    2300002: Ground
+    2300004: Ground1
+    2300006: Ground2
+    2300008: Ground3
+    2300010: Ground4
+    2300012: Ground5
+    2300014: Ground6
+    2300016: Ground7
+    2300018: Ground9
+    2300020: mountains 1
+    2300022: mountains1
+    2300024: mountains11
+    2300026: mountains15
+    2300028: mountains17
+    2300030: mountains2
+    2300032: mountains3
+    2300034: mountains4
+    2300036: mountains5
+    2300038: mountains7
+    2300040: mountains9
+    2300042: oakAutumn1Main
+    2300044: oakAutumn1Main 1
+    2300046: oakAutumn1Main 2
+    2300048: oakAutumn1Main 3
+    2300050: oakAutumn1Main1
+    2300052: oakAutumn1Main1 1
+    2300054: oakAutumn1Main1 2
+    2300056: oakWhite1Leaf
+    2300058: oakWhite1Leaf 1
+    2300060: oakWhite1Leaf 2
+    2300062: oakWhite1Leaf 3
+    2300064: oakWhite1Leaf 4
+    2300066: oakWhite1Leaf 5
+    2300068: oakWhite1Leaf 6
+    2300070: oakWhite1Main 1_MeshPart0
+    2300072: oakWhite1Main 1_MeshPart1
+    2300074: oakWhite1Main 2_MeshPart0
+    2300076: oakWhite1Main 2_MeshPart1
+    2300078: oakWhite1Main 3_MeshPart0
+    2300080: oakWhite1Main 3_MeshPart1
+    2300082: oakWhite1Main 4_MeshPart0
+    2300084: oakWhite1Main 4_MeshPart1
+    2300086: oakWhite1Main 5_MeshPart0
+    2300088: oakWhite1Main 5_MeshPart1
+    2300090: oakWhite1Main 6_MeshPart0
+    2300092: oakWhite1Main 6_MeshPart1
+    2300094: oakWhite1Main_MeshPart0
+    2300096: oakWhite1Main_MeshPart1
+    2300098: Plane01
+    2300100: Plane010
+    2300102: Plane02
+    2300104: Plane03
+    2300106: Plane04
+    2300108: Plane05
+    2300110: Plane06
+    2300112: Plane08
+    2300114: Plane09
+    2300116: Rock
+    2300118: Rock 1
+    2300120: Rock 2
+    2300122: rocks
+    2300124: rocks1
+    2300126: rocks1 1
+    2300128: rocks1 2
+    2300130: rocks1 3
+    2300132: rocks10
+    2300134: rocks11
+    2300136: rocks11 1
+    2300138: rocks11 2
+    2300140: rocks12
+    2300142: rocks12 1
+    2300144: rocks12 2
+    2300146: rocks12 3
+    2300148: rocks13
+    2300150: rocks13 1
+    2300152: rocks13 2
+    2300154: rocks13 3
+    2300156: rocks14
+    2300158: rocks14 1
+    2300160: rocks14 2
+    2300162: rocks14 3
+    2300164: rocks15
+    2300166: rocks16
+    2300168: rocks17
+    2300170: rocks2
+    2300172: rocks2 1
+    2300174: rocks2 2
+    2300176: rocks3
+    2300178: rocks3 1
+    2300180: rocks3 2
+    2300182: rocks4
+    2300184: rocks5
+    2300186: rocks5 1
+    2300188: rocks5 2
+    2300190: rocks6
+    2300192: rocks6 1
+    2300194: rocks6 2
+    2300196: rocks6 3
+    2300198: rocks7
+    2300200: rocks7 1
+    2300202: rocks7 2
+    2300204: rocks8
+    2300206: rocks8 1
+    2300208: rocks8 2
+    2300210: rocks8 3
+    2300212: rocks9
+    2300214: rocks9 1
+    2300216: rocks9 2
+    2300218: rocks9 3
+    2300220: ruins10
+    2300222: ruins11
+    2300224: ruins12
+    2300226: ruins13
+    2300228: ruins14
+    2300230: ruins15
+    2300232: ruins16
+    2300234: ruins17
+    2300236: ruins18
+    2300238: ruins8
+    2300240: ruins9
+    2300242: sky1
+    2300244: Tree
+    2300246: Tree 1
+    2300248: Tree 2
+    2300250: Tree 3
+    2300252: Tree1
+    2300254: Tree1 1
+    2300256: Tree1 2
+    3300000: Flat_ground
+    3300002: Ground
+    3300004: Ground1
+    3300006: Ground2
+    3300008: Ground3
+    3300010: Ground4
+    3300012: Ground5
+    3300014: Ground6
+    3300016: Ground7
+    3300018: Ground9
+    3300020: mountains 1
+    3300022: mountains1
+    3300024: mountains11
+    3300026: mountains15
+    3300028: mountains17
+    3300030: mountains2
+    3300032: mountains3
+    3300034: mountains4
+    3300036: mountains5
+    3300038: mountains7
+    3300040: mountains9
+    3300042: oakAutumn1Main
+    3300044: oakAutumn1Main 1
+    3300046: oakAutumn1Main 2
+    3300048: oakAutumn1Main 3
+    3300050: oakAutumn1Main1
+    3300052: oakAutumn1Main1 1
+    3300054: oakAutumn1Main1 2
+    3300056: oakWhite1Leaf
+    3300058: oakWhite1Leaf 1
+    3300060: oakWhite1Leaf 2
+    3300062: oakWhite1Leaf 3
+    3300064: oakWhite1Leaf 4
+    3300066: oakWhite1Leaf 5
+    3300068: oakWhite1Leaf 6
+    3300070: oakWhite1Main 1_MeshPart0
+    3300072: oakWhite1Main 1_MeshPart1
+    3300074: oakWhite1Main 2_MeshPart0
+    3300076: oakWhite1Main 2_MeshPart1
+    3300078: oakWhite1Main 3_MeshPart0
+    3300080: oakWhite1Main 3_MeshPart1
+    3300082: oakWhite1Main 4_MeshPart0
+    3300084: oakWhite1Main 4_MeshPart1
+    3300086: oakWhite1Main 5_MeshPart0
+    3300088: oakWhite1Main 5_MeshPart1
+    3300090: oakWhite1Main 6_MeshPart0
+    3300092: oakWhite1Main 6_MeshPart1
+    3300094: oakWhite1Main_MeshPart0
+    3300096: oakWhite1Main_MeshPart1
+    3300098: Plane01
+    3300100: Plane010
+    3300102: Plane02
+    3300104: Plane03
+    3300106: Plane04
+    3300108: Plane05
+    3300110: Plane06
+    3300112: Plane08
+    3300114: Plane09
+    3300116: Rock
+    3300118: Rock 1
+    3300120: Rock 2
+    3300122: rocks
+    3300124: rocks1
+    3300126: rocks1 1
+    3300128: rocks1 2
+    3300130: rocks1 3
+    3300132: rocks10
+    3300134: rocks11
+    3300136: rocks11 1
+    3300138: rocks11 2
+    3300140: rocks12
+    3300142: rocks12 1
+    3300144: rocks12 2
+    3300146: rocks12 3
+    3300148: rocks13
+    3300150: rocks13 1
+    3300152: rocks13 2
+    3300154: rocks13 3
+    3300156: rocks14
+    3300158: rocks14 1
+    3300160: rocks14 2
+    3300162: rocks14 3
+    3300164: rocks15
+    3300166: rocks16
+    3300168: rocks17
+    3300170: rocks2
+    3300172: rocks2 1
+    3300174: rocks2 2
+    3300176: rocks3
+    3300178: rocks3 1
+    3300180: rocks3 2
+    3300182: rocks4
+    3300184: rocks5
+    3300186: rocks5 1
+    3300188: rocks5 2
+    3300190: rocks6
+    3300192: rocks6 1
+    3300194: rocks6 2
+    3300196: rocks6 3
+    3300198: rocks7
+    3300200: rocks7 1
+    3300202: rocks7 2
+    3300204: rocks8
+    3300206: rocks8 1
+    3300208: rocks8 2
+    3300210: rocks8 3
+    3300212: rocks9
+    3300214: rocks9 1
+    3300216: rocks9 2
+    3300218: rocks9 3
+    3300220: ruins10
+    3300222: ruins11
+    3300224: ruins12
+    3300226: ruins13
+    3300228: ruins14
+    3300230: ruins15
+    3300232: ruins16
+    3300234: ruins17
+    3300236: ruins18
+    3300238: ruins8
+    3300240: ruins9
+    3300242: sky1
+    3300244: Tree
+    3300246: Tree 1
+    3300248: Tree 2
+    3300250: Tree 3
+    3300252: Tree1
+    3300254: Tree1 1
+    3300256: Tree1 2
+    4300000: oakWhite1Main_MeshPart0
+    4300002: oakWhite1Main_MeshPart1
+    4300004: oakWhite1Leaf
+    4300006: oakWhite1Main_MeshPart0
+    4300008: oakWhite1Main_MeshPart1
+    4300010: oakWhite1Leaf
+    4300012: oakAutumn1Main
+    4300014: oakAutumn1Main1
+    4300016: rocks14
+    4300018: rocks7
+    4300020: rocks5
+    4300022: rocks2
+    4300024: rocks8
+    4300026: rocks9
+    4300028: Tree
+    4300030: Rock
+    4300032: rocks6
+    4300034: rocks11
+    4300036: rocks13
+    4300038: rocks3
+    4300040: rocks1
+    4300042: rocks12
+    4300044: Tree1
+    4300046: ruins8
+    4300048: ruins9
+    4300050: ruins10
+    4300052: ruins11
+    4300054: ruins12
+    4300056: ruins13
+    4300058: ruins14
+    4300060: ruins15
+    4300062: ruins16
+    4300064: ruins17
+    4300066: ruins18
+    4300068: oakWhite1Main_MeshPart0
+    4300070: oakWhite1Main_MeshPart1
+    4300072: oakWhite1Leaf
+    4300074: oakAutumn1Main
+    4300076: rocks14
+    4300078: rocks7
+    4300080: rocks2
+    4300082: rocks8
+    4300084: rocks9
+    4300086: Tree
+    4300088: Rock
+    4300090: rocks6
+    4300092: rocks11
+    4300094: rocks13
+    4300096: rocks1
+    4300098: rocks12
+    4300100: oakWhite1Main_MeshPart0
+    4300102: oakWhite1Main_MeshPart1
+    4300104: oakWhite1Leaf
+    4300106: oakWhite1Main_MeshPart0
+    4300108: oakWhite1Main_MeshPart1
+    4300110: oakWhite1Leaf
+    4300112: oakAutumn1Main
+    4300114: oakAutumn1Main1
+    4300116: rocks14
+    4300118: rocks7
+    4300120: rocks5
+    4300122: rocks2
+    4300124: rocks8
+    4300126: rocks9
+    4300128: Tree
+    4300130: rocks6
+    4300132: rocks13
+    4300134: rocks3
+    4300136: rocks1
+    4300138: rocks12
+    4300140: Tree1
+    4300142: Plane01
+    4300144: Plane02
+    4300146: Plane03
+    4300148: Plane04
+    4300150: Plane05
+    4300152: Plane06
+    4300154: Plane08
+    4300156: Plane09
+    4300158: Plane010
+    4300160: mountains
+    4300162: mountains1
+    4300164: mountains2
+    4300166: mountains5
+    4300168: mountains3
+    4300170: mountains7
+    4300172: mountains9
+    4300174: mountains4
+    4300176: mountains11
+    4300178: mountains15
+    4300180: mountains17
+    4300182: Ground
+    4300184: rocks
+    4300186: rocks4
+    4300188: rocks10
+    4300190: rocks15
+    4300192: rocks16
+    4300194: rocks17
+    4300196: Ground1
+    4300198: Ground2
+    4300200: Ground3
+    4300202: Ground4
+    4300204: Ground5
+    4300206: Ground6
+    4300208: Ground7
+    4300210: Ground9
+    4300212: Flat_ground
+    4300214: oakWhite1Main_MeshPart0
+    4300216: oakWhite1Main_MeshPart1
+    4300218: oakWhite1Leaf
+    4300220: oakWhite1Main_MeshPart0
+    4300222: oakWhite1Main_MeshPart1
+    4300224: oakWhite1Leaf
+    4300226: oakAutumn1Main
+    4300228: oakAutumn1Main1
+    4300230: rocks14
+    4300232: rocks5
+    4300234: rocks8
+    4300236: rocks9
+    4300238: Tree
+    4300240: Rock
+    4300242: rocks6
+    4300244: rocks11
+    4300246: rocks13
+    4300248: rocks3
+    4300250: rocks1
+    4300252: rocks12
+    4300254: Tree1
+    4300256: sky1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirty_ground
+    second: {fileID: 2100000, guid: fad6d18ee84c7eb4e8227b013021a313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: af81a0286ba980f4f847dadd33bb675c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mountains18
+    second: {fileID: 2100000, guid: 3c77935e01033aa4db6d2ff0dc7be891, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oakAutumn1Shader
+    second: {fileID: 2100000, guid: 6d7d655f6e3d0564fa900fc6cc3cc366, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oakWhite1LeafShader
+    second: {fileID: 2100000, guid: eba72049196a95a4682d9c16c8ec1d9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oakWhite1Shader
+    second: {fileID: 2100000, guid: 219260bb8f740cc4ba41d9e412fff378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rocks18
+    second: {fileID: 2100000, guid: 784ebd82b0c74074281565be344951ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ruins7
+    second: {fileID: 2100000, guid: d74b59b4a285e1c4a9b873db774796fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sky
+    second: {fileID: 2100000, guid: b8f1a3282a72ba049b5a3eb6dc05ef4e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
